@@ -1,5 +1,6 @@
 # R Shiny for Operations Management
-* Thu  - 6:30-9:20 pm, Location: HBH 1007
+* Day/Time: Thu / 6:30-9:20 pm
+* Location: HBH 1007
 * Semester: Mini 3, Year: 2021
 * Units: 6, Section(s): 1
 
