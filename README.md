@@ -83,3 +83,12 @@ Students will be assigned the following final letter grades, based on calculatio
 * Statement on student wellness: As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may diminish your academic performance and/or reduce your ability to participate in daily activities. CMU services are available, and treatment does work. You can learn more about confidential mental health services available on campus at: http://www.cmu.edu/counseling/. Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
 * Mobile Devices: Using electronic devices not only detract from your learning experience but also that of your peers. Students are asked to keep their cell phones on vibrate and to keep them out of sight during lecture. If you have to take a call or respond to a message please leave the classroom. Students are permitted to use their cellphone during any in-class work time.
 * Students are required to follow all University COVID-19 Protocols outlined [here](https://www.cmu.edu/coronavirus/students/tartans-responsibility.html).
+
+## Course Schedule
+* Class 1 - 2/4 - Course Overview & Introduction to GitHub & Shiny
+* Class 2 - 2/11 - Reactive Programming & User Interfaces
+* Class 3 - 2/18 - Reactive Programming Pt. 2 & Dashboards
+* Class 4 - 2/25 - Interactive Visualizations & Advanced Reactivity
+* Class 5 - 3/4 - Leaflet & LeafletProxy
+* Class 6 - 3/11 - Bookmarking & Final Project Work
+* Class 7 - 3/18 - Connecting to Databases & API's
