@@ -37,7 +37,7 @@ This course will teach students to generate interactive websites including GIS m
 ## Assessments
 
 Assessment	Percentage of Final Grade:
-*	Homework 1: Building a basic ShinyApp	25%
+*	Homework 1: Create a basic ShinyApp	25%
 *	Homework 2: Create a Dashboard	35%
 *	Final Project: Create a ShinyApp with an Interactive Map	40%
 
