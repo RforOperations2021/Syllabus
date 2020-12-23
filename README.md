@@ -37,12 +37,11 @@ This course will teach students to generate interactive websites including GIS m
 ## Assessments
 
 Assessment	Percentage of Final Grade:
-*	HW 1: Building a basic UI	15%
-*	Project 1: Create a Dashboard	35%
-*	HW 2: Leaflet Maps	15%
-*	Project 2: Interactive Map	35%
+*	Homework 1: Building a basic ShinyApp	25%
+*	Homework 2: Create a Dashboard	35%
+*	Final Project: Create a ShinyApp with an Interactive Map	40%
 
-All assignments will be turned in by providing a link to the student’s GitHub repository of their work. This will allow the instructor to view how the student’s code evolved over time, for some Homework Assignments only a few commits may be necessary, but it is anticipated that the projects students complete will require numerous commits. The number of commits will not impact a student’s overall grade. Once you are done you should email the url of your github repo to gla@andrew.cmu.edu.
+All assignments will be turned in by providing a link to the student’s GitHub repository of their work. This will allow the instructor to view how the student’s code evolved over time, it is anticipated that the projects students complete will require numerous commits. There are no hard requirements for number of commits, but the overall quality of commits will be taken into account during grading. Once you are done you should email the url of your github repo to gla@andrew.cmu.edu.
 
 Assignments and projects are expected to follow [Google’s R Style Guide](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html).
 
@@ -85,10 +84,13 @@ Students will be assigned the following final letter grades, based on calculatio
 * Students are required to follow all University COVID-19 Protocols outlined [here](https://www.cmu.edu/coronavirus/students/tartans-responsibility.html).
 
 ## Course Schedule
-* Class 1 - 2/4 - Course Overview & Introduction to GitHub & Shiny
-* Class 2 - 2/11 - Reactive Programming & User Interfaces
-* Class 3 - 2/18 - Reactive Programming Pt. 2 & Dashboards
-* Class 4 - 2/25 - Interactive Visualizations & Advanced Reactivity
-* Class 5 - 3/4 - Leaflet & LeafletProxy
-* Class 6 - 3/11 - Bookmarking & Final Project Work
-* Class 7 - 3/18 - Connecting to Databases & API's
+* Class 1 - 2/4 - [Course Overview & Introduction to GitHub & Shiny](https://github.com/RforOperations2021/Class-1)
+* Class 2 - 2/11 - [Reactive Programming & User Interfaces](https://github.com/RforOperations2021/Class-2)
+* Class 3 - 2/18 - [Reactive Programming Pt. 2 & Dashboards](https://github.com/RforOperations2021/Class-3)
+* [Homework 1 Due](https://github.com/RforOperations2021/Homework-1/) - 2/19
+* Class 4 - 2/25 - [Interactive Visualizations & Advanced Reactivity](https://github.com/RforOperations2021/Class-4)
+* Class 5 - 3/4 - [Leaflet & LeafletProxy](https://github.com/RforOperations2021/Class-5)
+* [Homework 2 Due](https://github.com/RforOperations2021/Homework-2/) - 3/5
+* Class 6 - 3/11 - [Bookmarking & Final Project Work](https://github.com/RforOperations2021/Class-6)
+* Class 7 - 3/18 - [Connecting to Databases & API's](https://github.com/RforOperations2021/Class-7)
+* [Final Project Due](https://github.com/RforOperations2021/Final-Project/) - 3/19
