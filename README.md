@@ -1,6 +1,6 @@
 # R Shiny for Operations Management
 * Day/Time: Thu / 6:30-9:20 pm
-* Location: HBH 1007
+* Location: HBH 1202
 * Semester: Mini 3, Year: 2021
 * Units: 6, Section(s): 1
 
@@ -73,7 +73,7 @@ Students will be assigned the following final letter grades, based on calculatio
 ### Grading Policies
 * Late-work policy: Because of the iterative nature of this course students expecting to get the most out of the course should stay up to date with assignments. Therefore, students without a valid excuse will not be eligible for a grade higher than 80% on any late assignment.
 * Make-up work policy: Emergencies and unforeseeable events can and do occur. If a student has an emergency of some kind they must notify the Professor within 24 hours of end of the emergency. Students are expected to provide some kind of basic documentation of the event.
-* Attendance and/or participation policy: Attendance is an important factor in learning the course material and seeking guidance from the professor, however no attendance will be taken. For students who may be sick or otherwise unable to attend class, lectures slides will be available online in advance on the course Github page,
+* Attendance and/or participation policy: Attendance is an important factor in learning the course material and seeking guidance from the professor, however no attendance will be taken. For students who may be sick or otherwise unable to attend class, lectures slides will be available online in advance on the course Github page, and the repositories will be updated after class with a link to a Zoom recording of the class.
 
 ## Course Policies
 * Academic Integrity & Collaboration: While in many instances you may find yourself working on teams while programming and performing analysis Shiny apps are contained and it is required that you understand how all portions work. To this end, Students may work together on assignments, but each student is required to submit their own code/application. To ease the grading process Students should regularly commit their code milestones to Github, including things that did not work. Students who do not follow these guidelines will receive a C- or lower grade on the assignment in question.
@@ -84,8 +84,8 @@ Students will be assigned the following final letter grades, based on calculatio
 * Students are required to follow all University COVID-19 Protocols outlined [here](https://www.cmu.edu/coronavirus/students/tartans-responsibility.html).
 
 ## Course Schedule
-* Class 1 - 2/4 - [Course Overview & Introduction to GitHub & Shiny](https://github.com/RforOperations2021/Class-1)
-* Class 2 - 2/11 - [Reactive Programming & User Interfaces](https://github.com/RforOperations2021/Class-2)
+* Class 1 - 2/4 - Zoom only - [Course Overview & Introduction to GitHub & Shiny](https://github.com/RforOperations2021/Class-1) 
+* Class 2 - 2/11 - Zoom only - [Reactive Programming & User Interfaces](https://github.com/RforOperations2021/Class-2)
 * Class 3 - 2/18 - [Reactive Programming Pt. 2 & Dashboards](https://github.com/RforOperations2021/Class-3)
 * [Homework 1 Due](https://github.com/RforOperations2021/Homework-1/) - 2/19
 * Class 4 - 2/25 - [Interactive Visualizations & Advanced Reactivity](https://github.com/RforOperations2021/Class-4)
