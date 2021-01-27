@@ -13,6 +13,14 @@
 ## Course Description
 This course will teach students to generate interactive websites including GIS maps and other data visualizations and reports using the R programming language. The course will focus on RStudio’s Shiny web application framework for creating interactive web applications, and the Leaflet library package for mobile-friendly interactive maps. This course builds directly from its prerequisite course, Programming R for Analytics course, and offers students a chance to build skills that will be marketable in both the public and the private sectors. Students will learn to load data from a variety of sources and formats for use in interactive web interfaces that can provide real-time information, including Rest APIs.
 
+### Course Relevance
+Business Intelligence is a growing and dynamic sector. Shiny apps allow students to build comprehensive and powerful Dashboards and other kinds of web applications that can be used at firms with a variety of infrastructure.
+
+Students will walk away from this course with at least 3 functioning examples of their achievements that they can show and demonstrate to both current and future employers.
+
+### Course Goals
+Students will walk away from this course with at least 3 functioning examples of their achievements that they can show and demonstrate to both current and future employers.
+
 ### Learning Objectives 
 *	Use R to generate interactive charts, maps, tables and graphs. 
 *	Create, develop and deploy R Shiny web applications.
@@ -42,6 +50,8 @@ Assessment	Percentage of Final Grade:
 *	Final Project: Create a ShinyApp with an Interactive Map	40%
 
 All assignments will be turned in by providing a link to the student’s GitHub repository of their work. This will allow the instructor to view how the student’s code evolved over time, it is anticipated that the projects students complete will require numerous commits. There are no hard requirements for number of commits, but the overall quality of commits will be taken into account during grading. Once you are done you should email the url of your github repo to gla@andrew.cmu.edu.
+
+Students are expected to work on their assignments outside of normal class time. Each assignment should take a one or more 1-3 hour long coding sessions.
 
 Assignments and projects are expected to follow [Google’s R Style Guide](http://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html).
 
