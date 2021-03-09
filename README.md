@@ -101,6 +101,6 @@ Students will be assigned the following final letter grades, based on calculatio
 * Class 4 - 2/25 - [Interactive Visualizations & Advanced Reactivity](https://github.com/RforOperations2021/Class-4)
 * Class 5 - 3/4 - [Leaflet & LeafletProxy](https://github.com/RforOperations2021/Class-5)
 * [Homework 2 Due](https://github.com/RforOperations2021/Homework-2/) - 3/5
-* Class 6 - 3/11 - [Bookmarking & Final Project Work](https://github.com/RforOperations2021/Class-6)
-* Class 7 - 3/18 - [Connecting to Databases & API's](https://github.com/RforOperations2021/Class-7)
+* Class 6 - 3/11 - [Connecting to Databases & API's](https://github.com/RforOperations2021/Class-6)
+* Class 7 - 3/18 - [Bookmarking & Final Project Work](https://github.com/RforOperations2021/Class-7)
 * [Final Project Due](https://github.com/RforOperations2021/Final-Project/) - 3/19
